@@ -1,6 +1,6 @@
 # ⚡ Mostafa Yaser (Daphi) — Full Stack Developer | AI & Tech Visionary
 
-**💻 Full Stack Developer | 🧠 AI & Systems Thinker | 🚀 Innovator in Emerging Technologies**
+**💻 Senior Full Stack Developer | 🧠 AI & Systems Thinker | 🚀 Innovator in Emerging Technologies**
 
 ---
 
@@ -14,29 +14,45 @@ I view technology not merely as a craft but as a narrative — one that connects
 
 ---
 
+## 🏆 Achievements & Recognitions
+
+- 🥈 **2nd Place Winner – SalamHack 2025 (Jordan Innovation Startups)**  
+  Awarded for *FactChecker AI*, a browser extension that uses AI to verify YouTube video information in real time.  
+  Built with **React.js**, **Plasmo**, **Axios**, and **Gemini 2.0 Flash** to deliver seamless fact-checking experiences.
+
+- 🎓 **McKinsey Forward Graduate**  
+  Completed McKinsey & Company’s global leadership and problem-solving program, emphasizing strategic thinking, digital transformation, and innovation leadership.
+
+- 🎓 **Aspire Leaders Program (Founded by Harvard University)**  
+  Selected among emerging global leaders for a prestigious program focused on communication, entrepreneurship, and social impact.
+
+Each of these milestones strengthened my ability to merge **technical mastery** with **strategic insight**, a combination that defines my current professional direction.
+
+---
+
 ## ⚙️ What I Build
 
 - 🌐 **Full Stack Applications**  
-  I architect and develop high-performance, scalable web applications using:
+  Architecting and developing high-performance, scalable web applications using:  
   - **Front-End:** HTML5, CSS3, SASS, JavaScript (ES6+), React.js, Vue.js, Tailwind CSS  
   - **Back-End:** Node.js, Express.js, Python (Flask), PHP, SQL  
   - **Tooling:** Git, npm, Parcel, Chrome DevTools, REST APIs  
 
 - ⚡ **Performance & Security Optimization**  
-  Implementing clean architectures, efficient caching strategies, asynchronous handling, and API-level protection to ensure stability under high traffic.
+  Implementing clean architectures, efficient caching, asynchronous handling, and layered security for dependable scalability.
 
 - 🧠 **AI & Automation (Exploratory)**  
-  Experimenting with intelligent systems that augment productivity and elevate human–machine collaboration.
+  Experimenting with intelligent systems that augment human capability and streamline development workflows.
 
 - 🎨 **UI/UX Engineering**  
-  Applying design systems, micro-interactions, and cognitive load principles to produce intuitive, pixel-perfect interfaces.
+  Applying design systems, motion libraries (Framer Motion, GSAP), and cognitive principles for engaging, pixel-perfect interfaces.
 
 ---
 
 ## 🚀 Vision & Impact
 
-I aim to redefine digital interaction through **highly maintainable and emotionally resonant applications** — merging **artistic storytelling** with **technical mastery**.  
-My broader goal is to lead or co-found technology-driven ventures that accelerate innovation and create **lasting global impact** through **AI, robotics, and data intelligence**.
+I aim to redefine digital interaction through **emotionally resonant and technically elegant applications** — merging **artistic storytelling** with **engineering excellence**.  
+My long-term vision is to build **human-centric, AI-augmented systems** and lead technology-driven ventures that create lasting social and economic value.
 
 > “Every application is a living ecosystem — performance is its pulse, security its immune system, and creativity its soul.”
 
@@ -47,29 +63,30 @@ My broader goal is to lead or co-found technology-driven ventures that accelerat
 | **Category** | **Technologies & Tools** |
 |---------------|---------------------------|
 | **Languages** | JavaScript (ES6+), Python, PHP, SQL, HTML5, CSS3 |
-| **Frameworks** | React.js, Vue.js, Node.js, Express.js, Flask, Tailwind CSS, Bootstrap |
-| **Database & APIs** | MySQL, RESTful APIs |
+| **Frameworks** | React.js, Next.js, Vue.js, Node.js, Express.js, Flask, Laravel, Tailwind CSS, Bootstrap |
+| **Database & APIs** | MongoDB, MySQL, RESTful APIs |
 | **Version Control** | Git, GitHub |
-| **Soft Skills** | Leadership, Analytical Thinking, Problem Solving, Communication, Strategic Planning |
+| **Motion & 3D** | Framer Motion, GSAP, Three.js |
+| **Soft Skills** | Leadership, Analytical Thinking, Strategic Design, Communication, Team Collaboration |
 
 ---
 
 ## 💡 Selected Projects
 
-- 🛒 **E-Commerce Platform** — Built a modular and secure architecture with vanilla JS & PHP, supporting authentication and transaction flows.  
-- 🧭 **Interactive Portfolio System** — React.js + Tailwind CSS structure focusing on animation performance and optimized rendering.  
-- ⚙️ **AI-Powered Automation Script** — Python-based process automation reducing repetitive manual work.  
-- 🌐 **Facebook UI Replica** — Front-end system demonstrating responsive design and JS-based interactivity.
+- 🧠 **FactChecker AI (Award-Winning Project)** – Chrome extension verifying YouTube video content accuracy in real time using NLP and Gemini AI.  
+- 🛒 **E-Commerce Platform** – Modular architecture with PHP and JavaScript, supporting authentication and dynamic product systems.  
+- 🎨 **Interactive Portfolio System** – React.js + Tailwind CSS setup emphasizing animation performance and 3D transitions.  
+- ⚙️ **Automation Scripts** – Python-based scripts automating workflow processes and data operations.  
 
-Each project serves as a step toward mastering the harmony between **aesthetic experience** and **computational efficiency**.
+Each project reflects my continuous pursuit of uniting **aesthetic design**, **computational efficiency**, and **innovation in experience**.
 
 ---
 
 ## 🧭 Core Values
 
-- **Precision & Clarity:** Code should read like well-composed prose — elegant, purposeful, and maintainable.  
-- **Integrity in Design:** Every feature must serve both human experience and system logic.  
-- **Continuous Evolution:** True mastery lies in relentless learning, refactoring, and reinvention.
+- **Precision & Clarity:** Code should read like well-structured literature — concise, expressive, and maintainable.  
+- **Integrity in Design:** Every feature should harmonize user needs with system intelligence.  
+- **Continuous Evolution:** Innovation is not an act but a constant motion — refine, rebuild, and rise again.
 
 ---
 
