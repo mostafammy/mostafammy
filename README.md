@@ -92,11 +92,11 @@ Each project reflects my continuous pursuit of uniting **aesthetic design**, **c
 
 ---
 
-## 🌍 Let’s Connect
-
-- 💼 **Upwork:** [upwork.com/freelancers/mostafayaser](https://www.upwork.com/freelancers/~012ddbbb6c64aa0ccf)  
-- 🔗 **LinkedIn:** [linkedin.com/in/mostafayaser](https://www.linkedin.com/in/mostafa-yaser)  
-- 💻 **GitHub:** [github.com/mostafammy](https://github.com/mostafammy)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/mostafammy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mostafammy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mostafa-yaser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafa-yaser" height="30" width="40" /></a>
+</p> 
 
 ---
 
