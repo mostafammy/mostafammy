@@ -1,6 +1,6 @@
 # ⚡ Mostafa Yaser (Daphi) — Full Stack Developer | AI & Tech Visionary
 
-**💻 Senior Full Stack Developer | 🧠 AI & Systems Thinker | 🚀 Innovator in Emerging Technologies**
+**💻 Full Stack Developer | 🧠 AI & Systems Thinker | 🚀 Innovator in Emerging Technologies**
 
 ---
 
@@ -93,7 +93,7 @@ Each project reflects my continuous pursuit of uniting **aesthetic design**, **c
 ## 🌍 Let’s Connect
 
 - 💼 **Upwork:** [upwork.com/freelancers/mostafayaser](https://www.upwork.com/freelancers/~012ddbbb6c64aa0ccf)  
-- 🔗 **LinkedIn:** [linkedin.com/in/mostafayaser](www.linkedin.com/in/mostafa-yaser)  
+- 🔗 **LinkedIn:** [linkedin.com/in/mostafayaser](https://www.linkedin.com/in/mostafa-yaser)  
 - 💻 **GitHub:** [github.com/mostafammy](https://github.com/mostafammy)  
 
 ---
