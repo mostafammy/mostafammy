@@ -3,6 +3,8 @@
 **💻 Full Stack Developer | 🧠 AI & Systems Thinker | 🚀 Innovator in Emerging Technologies**
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=mostafammy&title=Commits,Experience,Repositories,PullRequest&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
 ## 🌟 About Me
 
