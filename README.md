@@ -1,6 +1,6 @@
 # ⚡ Mostafa Yaser (Daphi) — Full Stack Developer | AI & Tech Visionary
 
-**💻 Full Stack Developer | 🧠 AI & Systems Thinker | 🚀 Innovator in Emerging Technologies**
+**💻 Full Stack Software Engineer | 🧠 AI & Systems Thinker | 🚀 Innovator in Emerging Technologies**
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=mostafammy&title=Commits,Experience,Repositories,PullRequest&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
